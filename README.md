@@ -3,7 +3,7 @@ In this tensorflow js project, AI learns to play Gorillas game using supervised 
 
 To predict the outputs, this AI bot uses a simple neural network with 3 inputs, 16 hidden nodes and 2 outputs. 
 
-The network is trained by apllying polynomial regression to a bunch of data, previously collected by the brute-force method.  
+The network is trained by applying polynomial regression to a bunch of data, previously collected by the brute-force method.  
 
 The project is consisted of 2 parts:
 1. implementing original game
