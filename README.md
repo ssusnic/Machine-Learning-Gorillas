@@ -13,7 +13,13 @@ The prototypes of both parts are stored in this repository.
 
 The game is programmed in Javascript using [Phaser 2 framework](http://phaser.io/) and [TensorFlow.js library](https://js.tensorflow.org/).
 
-And here you can play the original Gorillas game:  
+If you want to watch how I did this project, here is the video:  
+https://youtu.be/ySANlOrdsQE
+
+Here you can run the AI Bot game and read the complete tutorial:  
+https://www.askforgametask.com/tutorial/machine-learning/gorillas-ai-bot/
+
+If you just want to play original Gorrilas game with your friend, go here:  
 https://www.askforgametask.com/game/gorillas/
 
 Official website:  
