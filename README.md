@@ -1,6 +1,9 @@
 # Machine-Learning-Gorillas
 In this tensorflow js project, AI learns to play Gorillas game using supervised machine learning algorithms. 
 
+If you want to watch how I did this project, here is the video:  
+https://youtu.be/ySANlOrdsQE
+
 To predict the outputs, this AI bot uses a simple neural network with 3 inputs, 16 hidden nodes and 2 outputs. 
 
 The network is trained by applying polynomial regression to a bunch of data, previously collected by the brute-force method.  
@@ -12,9 +15,6 @@ The project is consisted of 2 parts:
 The prototypes of both parts are stored in this repository.
 
 The game is programmed in Javascript using [Phaser 2 framework](http://phaser.io/) and [TensorFlow.js library](https://js.tensorflow.org/).
-
-If you want to watch how I did this project, here is the video:  
-https://youtu.be/ySANlOrdsQE
 
 Here you can run the AI Bot game and read the complete tutorial:  
 https://www.askforgametask.com/tutorial/machine-learning/gorillas-ai-bot/
